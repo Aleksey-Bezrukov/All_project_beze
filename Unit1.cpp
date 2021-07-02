@@ -222,6 +222,7 @@ static vector<unsigned char> data;
 	}
   }
  CloseHandle(sync.hEvent);
+ ///Coments
 }
 //---------------------------------------------------------------------------
 
