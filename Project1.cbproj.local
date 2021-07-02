@@ -23,13 +23,13 @@
     <Transaction>2021/02/05 12:23:00.000.507,=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>2021/06/24 12:39:28.000.734,=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>2021/06/24 12:39:44.000.696,=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/24 17:28:26.000.194,D:\Безруков\Программирование\Com_por_bdr\Unit1.cpp=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2021/06/24 17:28:26.000.194,D:\Безруков\Программирование\Com_por_bdr\Unit1.h=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2021/06/24 17:28:26.000.194,D:\Безруков\Программирование\Com_por_bdr\Unit1.dfm=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2021/06/24 17:28:27.000.976,D:\Безруков\Программирование\Com_por_bdr\Project1PCH1.h=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2021/06/24 17:28:28.000.946,D:\Безруков\Программирование\Com_por_bdr\Project1.cbproj=C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/06/24 17:28:26.000.194,C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\Безруков\Программирование\Com_por_bdr\Unit1.cpp</Transaction>
+    <Transaction>2021/06/24 17:28:26.000.194,C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Безруков\Программирование\Com_por_bdr\Unit1.dfm</Transaction>
+    <Transaction>2021/06/24 17:28:26.000.194,C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\Безруков\Программирование\Com_por_bdr\Unit1.h</Transaction>
+    <Transaction>2021/06/24 17:28:27.000.976,C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Безруков\Программирование\Com_por_bdr\Project1PCH1.h</Transaction>
+    <Transaction>2021/06/24 17:28:28.000.946,C:\Users\tomik\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Безруков\Программирование\Com_por_bdr\Project1.cbproj</Transaction>
     <Transaction>2021/06/29 18:51:21.000.970,=D:\Безруков\Программирование\Com_por_bdr\Unit2.cpp</Transaction>
-    <Transaction>2021/06/30 14:05:57.000.205,D:\Безруков\Программирование\Com_por_bdr\Unit2.h=C:\Users\tomik\Desktop\Новая папка\Unit2.h</Transaction>
-    <Transaction>2021/06/30 14:05:57.000.205,D:\Безруков\Программирование\Com_por_bdr\Unit2.cpp=C:\Users\tomik\Desktop\Новая папка\Unit2.cpp</Transaction>
+    <Transaction>2021/06/30 14:05:57.000.205,C:\Users\tomik\Desktop\Новая папка\Unit2.h=D:\Безруков\Программирование\Com_por_bdr\Unit2.h</Transaction>
+    <Transaction>2021/06/30 14:05:57.000.205,C:\Users\tomik\Desktop\Новая папка\Unit2.cpp=D:\Безруков\Программирование\Com_por_bdr\Unit2.cpp</Transaction>
   </Transactions>
 </BorlandProject>
