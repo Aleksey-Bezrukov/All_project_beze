@@ -45,7 +45,7 @@ unsigned long wait = 0, read = 0, state = 0;
  		0,
  		NULL,
  		OPEN_EXISTING,
- 	      0, // FILE_ATTRIBUTE_NORMAL|FILE_FLAG_OVERLAPPED, //Асинхронный режим
+ 	      FILE_ATTRIBUTE_NORMAL|FILE_FLAG_OVERLAPPED, //Асинхронный режим
  		NULL);
 
  	if(m_Handle == INVALID_HANDLE_VALUE) {
